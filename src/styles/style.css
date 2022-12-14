@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Teko&display=swap');
+
+#root{
+    --gold: #DAA520;
+    --champagne: #FAEBD7;
+    --verde-100: #D9EF9F;
+    --verde-200: #96AC60;
+    --verde-300: #778C43;
+    --verde-400: #586E26;
+    --verde-700: #31470B;
+    --verde-900: #203500;
+
+    --red-poke: #ea4434;
+
+    
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
